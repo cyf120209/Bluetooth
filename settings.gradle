@@ -1,0 +1,6 @@
+include ':app'
+include ':bLEDemo'
+include ':bluetooth4_3'
+include ':bluetoothdemo'
+include ':deviceScanActivity'
+include ':nRFUART_Googlev2'
